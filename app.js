@@ -1,7 +1,7 @@
 const app = require('express')();
 var cors = require('cors')
 
-app.use(cors())
+//app.use(cors())
 const PORT = 8080;
 
 
